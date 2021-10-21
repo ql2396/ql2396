@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Elmer
-- 👀 I’m interested in exploring new things
+- 👀 Ready to see how financial world is driven by data
 - 🌱 I’m currently learning Statistics 
-- 💞️ I’m looking to collaborate on Finance
 - 📫 Reach me through ql2396@columbia.edu
 
 <!---
