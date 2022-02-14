@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Elmer
-- 👀 Ready to see how financial world is driven by data
-- 🌱 I’m currently learning Statistics 
+- 👋 Hi, I’m Qianhao
 - 📫 Reach me through ql2396@columbia.edu
 
 <!---
